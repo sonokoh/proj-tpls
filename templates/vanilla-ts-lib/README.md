@@ -1,5 +1,6 @@
 # Vanilla TS Library
 
+- esm export only
 - typescript
 - vitest
 - eslint (standard)
