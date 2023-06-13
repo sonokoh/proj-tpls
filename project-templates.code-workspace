@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"name": "vanilla-ts-lib",
+			"path": "templates/vanilla-ts-lib"
+		},
+		{
+			"name": "/ROOT",
+			"path": "."
+		}
+	],
+	"settings": {}
+}

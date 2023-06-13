@@ -1,0 +1,19 @@
+{
+  "compilerOptions": {
+      "target": "ES2022",
+      "module": "ES2022",
+      "lib": [
+          "dom",
+          "ES2022"
+      ],
+      "moduleResolution": "node",
+      "isolatedModules": false,
+      "declaration": true,
+      "resolveJsonModule": true,
+      "outDir": "dist",
+      "declarationDir": "dist/types",
+      "allowSyntheticDefaultImports": true,
+      "strictNullChecks": true,
+      "strictFunctionTypes": true
+  }
+}

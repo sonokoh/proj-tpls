@@ -1,0 +1,5 @@
+{
+  // for monorepo
+  // "extends": ["../../presets/typedoc.base.json"],
+  "entryPoints": ["src/index.ts"]
+}
